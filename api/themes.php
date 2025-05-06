@@ -67,18 +67,17 @@ return [
         "dates" => "#5D99A9",
         "excludeDaysLabel" => "#758575dd",
     ],
-    "vitesse3" => [
+   "vitesse3" => [
         "background" => "#000000",
         "border" => "#4D9375",
         "stroke" => "#B8A965",
         "ring" => "#4D9375",
         "fire" => "#CB7676",
-        "currStreakNum" => "#80A665",
+        "currStreakNum" => "#BD976A",
         "sideNums" => "#4D9375",
-        "currStreakLabel" => "#BD976A",
+        "currStreakLabel" => "#80A665",
         "sideLabels" => "#80A665",
         "dates" => "#BD976A",
         "excludeDaysLabel" => "#758575dd",
     ],
-
 ];
