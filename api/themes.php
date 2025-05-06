@@ -41,7 +41,7 @@ return [
         "dates" => "#68B587",
         "excludeDaysLabel" => "#68B587",
     ],
-    "Vitesse" => [
+    "vitesse" => [
         "background" => "#000000",
         "border" => "#4D9375",
         "stroke" => "#5D99A9",
